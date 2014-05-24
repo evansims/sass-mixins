@@ -15,7 +15,7 @@ This mixin is intended to replicate Medium.com's super sexy underlines style, [e
 ![Underline Example](https://raw.githubusercontent.com/evansims/sass-mixins/screenshots/screenshots/underlines.png "Underline Example")
 
 Usage example:
-```sass
+```scss
 a.author {
     color: #5f5164;
     @include underline(#fff, #D6DDDE)
