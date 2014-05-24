@@ -14,6 +14,8 @@ This mixin is intended to replicate Medium.com's super sexy underlines style, [e
 
 ![Underline Example](https://raw.githubusercontent.com/evansims/sass-mixins/screenshots/screenshots/underlines.png "Underline Example")
 
+![Multiline underlines are supported.](https://raw.githubusercontent.com/evansims/sass-mixins/screenshots/screenshots/underlines_multiline.png "Multiline underlines are supported.")
+
 Usage example:
 ```scss
 a.author {
