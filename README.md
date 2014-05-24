@@ -10,7 +10,7 @@ These scripts were designed to fit into my design workflow, which makes use of :
 - [Foundation 5](http://foundation.zurb.com/), or at least it's [_functions.scss file](https://github.com/zurb/foundation/blob/master/scss/foundation/_functions.scss)
 
 ## Medium.com Style Underlines
-This mixin is intended to replicate Medium.com's super sexy underlines style, [elaborated in fantastic detail by Marcin Wichary here.](https://medium.com/designing-medium/7c03a9274f9). This mixin is a bit of a remix based on several [other's](https://github.com/Team-Sass/toolkit#underline) [attempts](http://codepen.io/ghepting/pen/tLnHK/), with my own added contributions.
+This mixin is intended to replicate Medium.com's super sexy underlines style, [elaborated in fantastic detail by Marcin Wichary here.](https://medium.com/designing-medium/7c03a9274f9). This mixin is a bit of a remix based on several [other's](https://github.com/Team-Sass/toolkit#underline) [attempts](http://codepen.io/ghepting/pen/tLnHK/), with my own added contributions. It supports clearing descenders and graceful multiline spanning.
 
 ![Underline Example](https://raw.githubusercontent.com/evansims/sass-mixins/screenshots/screenshots/underlines.png "Underline Example")
 
